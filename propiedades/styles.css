@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+
+p{
+    color: white; /* cambia el color de la fuente */
+    font-size: 20px; /* cambia el tamaño de la fuente */
+    font-weight: bold; /* grosor de la letra */  
+    font-family: "DynaPuff";  /* familia o tipo de letra */
+    font-style:  italic; /* estilo de la letra, cursiva o normal */
+    /* text-decoration: underline dashed; */
+    text-transform: capitalize; /* transforma el texto, mayusc o minusc */
+    text-shadow: -5px 2px 0px red;
+    line-height: 40px;
+    letter-spacing: 20px;
+    /*  */
+}
+
+h1{
+    text-align: start;
+}
