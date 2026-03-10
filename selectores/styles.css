@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+.product{
+    background-color: black;
+    margin: 20px;
+    padding: 30px;
+    border: 5px solid red;
+    border-radius: 15px;
+    color: white;
+}
+
+.div_desayuno{
+    background-color: lawngreen;
+}
+
+.div_bombon{
+    background-color: bisque;
+}
+
+.div_alcan{
+    background-color: blueviolet;
+}
+
+.Unord_list{
+    list-style: none;
+    color: black;
+}
+
+.container{
+    background-color: brown;
+    padding: 15px
+}
