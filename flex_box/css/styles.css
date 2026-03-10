@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img{
+    width: 60px;
+}
+
+.nav_menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+    background-color: aqua;
+}
+
+.menu_list{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+h1{
+    text-align: center
+}
