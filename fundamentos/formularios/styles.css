@@ -87,3 +87,30 @@ button{
     margin: 1rem;
     border-radius: 10px;
 }
+
+.img_alien{
+    width: 60px;
+    height: 60px;
+    border: none;
+    border-radius: none;
+    overflow: auto;
+}
+
+.nav_menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+    background-color: gray;
+}
+
+.menu_list{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+.list_item{
+    font-size: 2rem;
+}
